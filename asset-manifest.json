@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/husband-shop/static/css/main.d2cc4b99.css",
+    "main.js": "/husband-shop/static/js/main.bd6b0caf.js",
+    "static/js/787.2f06d27c.chunk.js": "/husband-shop/static/js/787.2f06d27c.chunk.js",
+    "static/media/3.svg": "/husband-shop/static/media/3.0f499e8d1371e5b98b9e0f7d8c8bf35d.svg",
+    "static/media/8.svg": "/husband-shop/static/media/8.08e9f95b8944a5e63a028158364a2173.svg",
+    "static/media/9.svg": "/husband-shop/static/media/9.8900a4c91acf9bb48e1abaee1528c017.svg",
+    "index.html": "/husband-shop/index.html",
+    "main.d2cc4b99.css.map": "/husband-shop/static/css/main.d2cc4b99.css.map",
+    "main.bd6b0caf.js.map": "/husband-shop/static/js/main.bd6b0caf.js.map",
+    "787.2f06d27c.chunk.js.map": "/husband-shop/static/js/787.2f06d27c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2cc4b99.css",
+    "static/js/main.bd6b0caf.js"
+  ]
+}
